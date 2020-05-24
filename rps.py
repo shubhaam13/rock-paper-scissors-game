@@ -1,3 +1,5 @@
+# rock paper scissors text-based-game
+# Created by- shubham kumar  
 import random
 
 
